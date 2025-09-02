@@ -1,0 +1,3 @@
+{
+  "prompt": "tool: fs.write_file path=sandbox/README.md content=\"Hello Lilith <3\""
+}
